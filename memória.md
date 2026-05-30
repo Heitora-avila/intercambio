@@ -83,4 +83,5 @@ Adicionar abaixo novas informacoes relevantes conforme o projeto evoluir.
 
 ### Historico
 
+- 2026-05-30: Skill global `skill-edit` criada em `C:\Users\welli\.codex\skills\skill-edit` para suporte a criacao e edicao de imagens e videos.
 - 2026-05-30: Arquivo de memoria criado para centralizar informacoes importantes do projeto.
